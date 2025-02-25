@@ -1,4 +1,4 @@
-theme: minimal
+theme: jekyll-theme-minimal
 title: TouchDesigner Fundamentals Workshop
 show_downloads: "true"
 plugins:
