@@ -1,6 +1,6 @@
 # 🌀 TouchDesigner Fundamentals Workshop
 
-![[assets/banana.png]]
+![banana_art](./assets/banana.png)
 
 ## 🎯 Overview
 Welcome to the **TouchDesigner Fundamentals Workshop**, a **3-day hands-on learning experience** designed to introduce beginners to the world of **real-time visuals, generative art, and interactive media**. This course is inspired by the [TouchDesigner 100 Series](https://learn.derivative.ca/courses/100-fundamentals/) and will guide you through the essentials of **node-based programming, 3D rendering, interactivity, and Python scripting**.
