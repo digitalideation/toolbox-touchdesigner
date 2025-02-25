@@ -1,0 +1,5 @@
+theme: minima
+title: TouchDesigner Fundamentals Workshop
+show_downloads: "true"
+plugins:
+  - jemoji
