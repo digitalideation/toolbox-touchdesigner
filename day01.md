@@ -8,11 +8,7 @@
 🔹 Exploring the **Network Editor, Parameters, and Timeline**.  
 🔹 **Navigating** the interface (zooming, panning, and selecting).
 
-
-
 📌 **Hands-on Exercise:** Open TouchDesigner and explore the **default project**. Modify an existing node, tweak parameters, and preview changes.
-
----
 
 ### **🟡 Part 2: Understanding Operators & Network Anatomy (30 min)**
 
@@ -32,8 +28,6 @@
 - Create a **simple network** with different operator families.
 - Observe how data flows from one node to another.
 
----
-
 ### **🟠 Part 3: Creating & Connecting Operators (45 min)**
 
 🔹 Adding **new operators** to the network.  
@@ -46,8 +40,6 @@
 - Create a **TOP network** that loads an image and applies a basic effect.
 - Experiment with **connections** and **node order**.
 
----
-
 ### **🔵 Part 4: Operator Families Deep Dive (45 min)**
 
 Each group will create **mini-projects** using different operator families:  
@@ -58,8 +50,6 @@ Each group will create **mini-projects** using different operator families:
 ✅ **COMPs:** Build a simple UI with a button and slider.
 
 📌 **Challenge:** Combine multiple operators and **animate** a simple effect.
-
----
 
 ## **🕒 Afternoon Session (3 hours) – Working with Images (TOPs)**
 
@@ -73,8 +63,6 @@ Each group will create **mini-projects** using different operator families:
 
 📌 **Hands-on Exercise:** Import an image and modify it using **Transform & Level TOPs**.
 
----
-
 ### **🟡 Part 2: Basic Compositing, Mattes & Masks (1 hour)**
 
 🔹 **Compositing techniques**: Overlays, blending modes, transparency.  
@@ -86,8 +74,6 @@ Each group will create **mini-projects** using different operator families:
 - Blend two images together with **different blend modes**.
 - Create a **mask** using a custom shape.
 
----
-
 ### **🟠 Part 3: Building Patterns & Applying Effects (45 min)**
 
 🔹 Using procedural **Noise & Ramp** textures.  
@@ -98,8 +84,6 @@ Each group will create **mini-projects** using different operator families:
 
 - Build a **dynamic background pattern** using Noise TOP.
 - Add **feedback effects** for motion trails.
-
----
 
 ### **🔵 Part 4: Saving & Exporting (30 min)**
 
@@ -121,3 +105,8 @@ Each group will create **mini-projects** using different operator families:
 ✅ Learning the **5 operator families**.  
 ✅ Working with **images, masks, and effects**.  
 ✅ Hands-on **mini-projects** for real-time visuals.
+
+## Ideas / References
+
+- [Day01 challenges ideas](./parkplatz/day01-challenges-ideas.md)
+- [Filters idea](https://www.moshpro.app/#top)
