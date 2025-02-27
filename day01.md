@@ -111,3 +111,4 @@ Each group will create **mini-projects** using different operator families:
 - [Day01 challenges ideas](./parkplatz/day01-challenges-ideas.md)
 - [Day01 exercise ideas](./parkplatz/day01-exercises-ideas.md)
 - [Filters idea](https://www.moshpro.app/#top)
+- [Keyboard Shortcuts cheat-sheet](https://matthewragan.com/teaching-resources/touchdesigner/touchdesigner-keyboard-shortcuts/)
