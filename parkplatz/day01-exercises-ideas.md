@@ -38,11 +38,11 @@
 
 🔹 **How it works:**
 
-- Provide each team with a **random set of images** (or allow them to bring their own).
-- They must **remix** them creatively using **TOPs** (compositing, effects, masking, etc.).
-- Each team presents their **before & after transformation**.
+- Each participant is given a **random set of images** (or bring his/her own).
+- The goal is to **remix** them creatively using **TOPs** (compositing, effects, masking, etc.).
+- Each participant presents their **before & after transformation**.
 
-💡 **Variation:** If you want more interactivity, let them integrate **live webcam feeds**.
+💡 **Variation:** for more interactivity, integrate **live webcam feeds**.
 
 ✅ **Takeaway:** Reinforces **TOP workflows** and creative problem-solving.
 
@@ -54,26 +54,26 @@
 
 🔹 **How it works:**
 
-- Each team is given 30 minutes to create a **dynamic pattern** using **Noise TOP, Ramp TOP, Feedback TOP, etc.**.
-- They **customise it** (colors, motion, interaction).
-- At the end, the groups **battle**:
-  - Two teams present their patterns side by side.
-  - Participants **vote** (e.g., most hypnotic, best color use, most unexpected).
+- Each participant is given 30 minutes to create a **dynamic pattern** using **Noise TOP, Ramp TOP, Feedback TOP, etc.**.
+- **Customise it** (colors, motion, interaction).
+- At the end, the participants **battle**:
+  - Two participant present their patterns side by side.
+  - The other Participants **vote** (e.g., most hypnotic, best color use, most unexpected).
 
 ✅ **Takeaway:** Encourages exploration of **procedural textures** & real-time animation.
 
 ---
 
-#### **🟡 Exercise 5: Team Animation Relay (45 min)**
+#### **🟡 Exercise 5: Animation Relay (45 min)**
 
 **Objective:** Learn **collaborative animation creation**.
 
 🔹 **How it works:**
 
-- Teams start with a **blank canvas**.
-- Every **10 minutes**, they pass their project to another team, which must **add a new element or effect**.
+- Participants start with a **blank canvas**.
+- Every **10 minutes**, they pass their project to another participant, which must **add a new element or effect**.
 - The process repeats **3 times**.
-- At the end, all teams present their **unexpected final animation**.
+- At the end, all participants present their **unexpected final animation**.
 
 ✅ **Takeaway:** Encourages **collaborative creativity** and **layered design thinking**.
 

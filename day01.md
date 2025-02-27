@@ -109,4 +109,5 @@ Each group will create **mini-projects** using different operator families:
 ## Ideas / References
 
 - [Day01 challenges ideas](./parkplatz/day01-challenges-ideas.md)
+- [Day01 exercise ideas](./parkplatz/day01-exercises-ideas.md)
 - [Filters idea](https://www.moshpro.app/#top)
