@@ -8,19 +8,19 @@ Welcome to the **TouchDesigner Fundamentals Workshop**, a **3-day hands-on learn
 
 ## 📅 Workshop Structure
 
-### **[Day 1: Introduction & Core Concepts](day01.md)**
+### [Day 1: Introduction & Core Concepts](day01.md)
 
 - Understanding the TouchDesigner Interface
 - Working with **TOPs** (Texture Operators) for image and video processing
 - Basics of compositing, masking, and effects
 
-### **Day 2: Signal Processing & 3D Rendering**
+### [Day 2: Signal Processing & 3D Rendering](day02.md)
 
 - Exploring **CHOPs** (Channel Operators) for signal control
 - Introduction to **SOPs** (Surface Operators) and 3D geometry
 - Basic lighting, cameras, and rendering techniques
 
-### **Day 3: UI, Python & Advanced Topics**
+### Day 3: UI, Python & Advanced Topics
 
 - Creating interactive UI elements using **COMPs**
 - Writing **Python scripts** for automation and interactivity
