@@ -20,7 +20,7 @@ Welcome to the **TouchDesigner Fundamentals Workshop**, a **3-day hands-on learn
 - Introduction to **SOPs** (Surface Operators) and 3D geometry
 - Basic lighting, cameras, and rendering techniques
 
-### Day 3: UI, Python & Advanced Topics
+### [Day 3: UI, Python & Advanced Topics](day03.md)
 
 - Creating interactive UI elements using **COMPs**
 - Writing **Python scripts** for automation and interactivity
