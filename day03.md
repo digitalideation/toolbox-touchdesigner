@@ -12,7 +12,7 @@
 
 📖 **Reference:**
 
-- [UI & Control Panels](https://learn.derivative.ca/courses/100-fundamentals/lessons/105-ui-building-control-panels/topic/building-control-panels/)
+- [UI & Control Panels](https://learn.derivative.ca/courses/100-fundamentals/lessons/105-comps-interfaces-organization-outputs/)
 
 📌 **Exercise (30 min):** Create a simple UI panel controlling visuals (color, size, speed).
 
@@ -26,7 +26,7 @@
 
 📖 **Reference:**
 
-- [Python in TouchDesigner](https://learn.derivative.ca/courses/100-fundamentals/lessons/106-dats-python/topic/python-in-td/)
+- [Python in TouchDesigner](https://learn.derivative.ca/courses/100-fundamentals/lessons/106-comps-interface-building-and-controls/)
 
 📌 **Exercise (30 min):** Write a Python script that randomly animates color or positions.
 
@@ -40,7 +40,7 @@
 
 📖 **Reference:**
 
-- [Working with Tables & External Data](https://learn.derivative.ca/courses/100-fundamentals/lessons/106-dats-python/topic/working-with-tables-and-external-data/)
+- [Working with Tables & External Data](https://learn.derivative.ca/courses/100-fundamentals/lessons/107-dats-scripting-python/)
 
 📌 **Exercise (30 min):** Visualize external data like weather or live financial information.
 
